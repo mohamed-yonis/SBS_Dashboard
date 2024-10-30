@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBell, faUser, faCog } from "@fortawesome/free-solid-svg-icons";
 
 const Header = () => (
-  <div className="bg-gray-100 p-4 flex justify-between items-center shadow-md">
+  <div className=" p-4 flex justify-between items-center ">
     <h1 className="text-lg font-semibold">Dashboard / Home</h1>
     <div className="flex items-center gap-4">
       <input
